@@ -27,7 +27,7 @@ npm run dev
 ```
 
 
-3. Open the dev server URL shown by Vite (usually http://localhost:5173)
+3. Open the live URL: https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Puritized/
 
 
 ## What to check
@@ -57,4 +57,5 @@ Save these files into your repository structure and commit the changes. The proj
 - TaskManager with localStorage persistence, filters, hooks, and state management
 - Theme context using useContext and Tailwind dark mode
 - API integration (JSONPlaceholder) with loading/error handling, pagination, search, and infinite scroll sentinel
+
 - Responsive design using Tailwind
