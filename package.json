@@ -1,3 +1,4 @@
+"homepage": "https://plp-mern-stack-development.github.io/react-js-jsx-and-css-mastering-front-end-development-Puritized",
 {
   "name": "week3-react-assignment",
   "private": true,
@@ -23,3 +24,4 @@
     "vite": "^5.4.21"
   }
 }
+
