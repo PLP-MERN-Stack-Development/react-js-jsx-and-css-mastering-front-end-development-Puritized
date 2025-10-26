@@ -8,12 +8,13 @@ export default function Navbar() {
           PLP Task Manager
         </h1>
         <div className="flex gap-4">
-          <Link to="/react-js-jsx-and-css-mastering-front-end-development-Puritized/" className="hover:underline">Home</Link>
-          <Link to="/react-js-jsx-and-css-mastering-front-end-development-Puritized/tasks" className="hover:underline">Tasks</Link>
-          <Link to="/react-js-jsx-and-css-mastering-front-end-development-Puritized/api" className="hover:underline">API Data</Link>
+          <Link to="/" className="hover:underline">Home</Link>
+          <Link to="/tasks" className="hover:underline">Tasks</Link>
+          <Link to="/api" className="hover:underline">API Data</Link>
         </div>
       </div>
     </nav>
   );
 
 }
+
